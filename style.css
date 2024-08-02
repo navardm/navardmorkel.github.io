@@ -352,7 +352,15 @@ form input, form textarea {
 		font-size: 15px;
 		display: block;
 	}
-	
+	.content {
+		width: 10px 20px;
+		font-size: 20px;
+	}
+	.gallery {
+		display: flex;
+		position: absolute;
+		
+	}
 }	
 
 
