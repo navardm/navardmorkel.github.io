@@ -345,7 +345,7 @@ form input, form textarea {
 		height: 100vh;
 		padding-top: 50px;
 		display: block;
-		margin: 25px;
+		
 	}
 	.menu-icon {
 		position: absolute;
@@ -355,7 +355,7 @@ form input, form textarea {
 		height: 100vh;
 		padding-top: 50px;
 		display: block;
-		margin: 25px;
+		
 	}
 	.main h1 {
 		font-size: 45px;
