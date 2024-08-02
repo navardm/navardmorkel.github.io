@@ -344,12 +344,12 @@ form input, form textarea {
 		width: 200px;
 		height: 100vh;
 		padding-top: 50px;
-		display: block;
+		
 		
 	}
 
 	.main h1 {
-		font-size: 45px;
+		font-size: 255px;
 	}
 	
 }	
