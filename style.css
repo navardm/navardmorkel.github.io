@@ -341,9 +341,9 @@ form input, form textarea {
 		position: relative;
 		top: 0;
 		right: 0;
-		width: 200px;
+		width: 150px;
 		height: 100vh;
-		
+		diplay: flex;
 		
 		
 	}
@@ -366,7 +366,7 @@ form input, form textarea {
 	        position: relative;
 		top: 0;
 		right: 0;
-		width: 100px;
+		width: 150px;
 		height: 100vh;
 		padding-top: 50px;
 		diplay: flex;
@@ -375,10 +375,10 @@ form input, form textarea {
 	}
 
 	.projectList {
-	        position: fixed;
+	        position: relative;
 		top: 0;
 		right: 0;
-		width: 100px;
+		width: 150px;
 		height: 100vh;
 		padding-top: 50px;
 		overflow: hidden;
