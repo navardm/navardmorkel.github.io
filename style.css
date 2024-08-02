@@ -337,7 +337,7 @@ form input, form textarea {
 
 @media only screen and (max-width: 600px) {
 	
-	.navbar {
+	.navbar .menu-icon {
 		position: fixed;
 		top: 0;
 		right: 0;
