@@ -338,7 +338,7 @@ form input, form textarea {
 @media only screen and (max-width: 600px) {
 	
 	.logo {
-		position: fixed;
+		position: relative;
 		top: 0;
 		right: 0;
 		width: 200px;
@@ -348,7 +348,7 @@ form input, form textarea {
 		
 	}
 	.menu-icon {
-		position: absolute;
+		position: relative;
 		top: 0;
 		right: 0;
 		width: 200px;
