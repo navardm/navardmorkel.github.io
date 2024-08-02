@@ -354,6 +354,7 @@ form input, form textarea {
 	} */
 
 	.main h1 {
+		margin-top: 50%;
 		font-size: 25px;
 		text-align: center
 	}
