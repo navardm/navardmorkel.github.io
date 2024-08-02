@@ -344,6 +344,8 @@ form input, form textarea {
 		width: 200px;
 		height: 100vh;
 		padding-top: 50px;
+		display: block;
+		margin: 25px;
 	}
 	.menu-icon {
 		position: fixed;
@@ -352,6 +354,8 @@ form input, form textarea {
 		width: 200px;
 		height: 100vh;
 		padding-top: 50px;
+		display: block;
+		margin: 25px;
 	}
 	
 }	
