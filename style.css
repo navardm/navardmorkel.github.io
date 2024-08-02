@@ -352,13 +352,13 @@ form input, form textarea {
 		top: 0;
 		right: 0;
 		width: 200px;
-		height: 1000vh;
+		height: 100vh;
 		padding-top: 50px;
 		display: block;
 		margin: 25px;
 	}
 	.main h1 {
-		font-size: 30px;
+		font-size: 45px;
 	}
 	
 }	
