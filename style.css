@@ -337,7 +337,7 @@ form input, form textarea {
 
 @media only screen and (max-width: 600px) {
 	
-	.logo {
+	.navbar {
 		position: fixed;
 		top: 0;
 		right: 0;
@@ -347,17 +347,7 @@ form input, form textarea {
 		display: block;
 		
 	}
-	.menu-icon {
-		position: fixed;
-		top: 0;
-		right: 0;
-		width: 200px;
-		height: 100vh;
-		padding-top: 50px;
-		display: none;
-		flex-direction: column;
-		
-	}
+
 	.main h1 {
 		font-size: 45px;
 	}
