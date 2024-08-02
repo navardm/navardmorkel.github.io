@@ -354,8 +354,8 @@ form input, form textarea {
 	}
 
 	.main h1 {
-		font-size: 15px;
-		display: block;
+		font-size: 25px;
+		text-align: center
 	}
 	.content {
 		width: 10px 20px;
@@ -365,9 +365,10 @@ form input, form textarea {
 	        position: fixed;
 		top: 0;
 		right: 0;
-		width: 200px;
+		width: 100px;
 		height: 100vh;
 		padding-top: 50px;
+		diplay: none;
 		
 		
 	}
